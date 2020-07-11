@@ -1,0 +1,6 @@
+npm -g create-react-app && create-react-app appName
+//or, better way is:
+npx create-react-app appName
+
+// es7 React GrapghQl... extension
+rce + tab --- in the file for a quick start
